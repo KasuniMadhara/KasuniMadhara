@@ -15,7 +15,7 @@
 - 💻 Passionate about **Web Development**, **Database Management**, and **Software Engineering**  
 - 🌱 Currently learning **Java**, **PHP**, and exploring **React** 
 - 📫 How to reach me **kasuniwijerathna2003@gmail.com**
-- ⚡ Call me as **Dhara** 🌸
+
 
 ---
 
