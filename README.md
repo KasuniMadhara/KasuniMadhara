@@ -41,7 +41,7 @@ by completing hands-on CI/CD tasks and workflows.
 
 ### 🌐 Connect with Me  
 <p align="left">
-<a href="linkedin.com/in/kasuni-madhara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kasuni wijerathna" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/kasuni-wijerathna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kasuni wijerathna" height="30" width="40" /></a>
 
 </p>
 <br>
