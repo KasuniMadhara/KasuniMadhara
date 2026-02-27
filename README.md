@@ -18,6 +18,14 @@
 
 
 ---
+## 🏅 GitHub Actions Badge
+
+🎉 I have successfully earned the **Beginner GitHub Actions Badge**  
+by completing hands-on CI/CD tasks and workflows.
+
+🔗 Repository: https://github.com/nisalgunawardhana/github-actions-learning
+
+![Beginner Badge](https://raw.githubusercontent.com/nisalgunawardhana/github-actions-learning/main/images/Beginner.png)
 
 <br>
 
