@@ -20,15 +20,17 @@
 ---
 ## 🏅 Certifications & Achievements
 
-GitHub Actions Beginner Badge
+**GitHub Beginner Badge**
+
 I successfully completed the GitHub Actions Beginner Program.
 
 🔗 Repository: https://github.com/nisalgunawardhana/Github-for-beginners
 
-![GitHub Actions Beginner Badge](https://github.com/user-attachments/assets/badge-image)
+![GitHubBeginner Badge](https://raw.githubusercontent.com/nisalgunawardhana/Github-for-beginners/main/images/badge.png)
 
- GitHub Actions Badge
- I have successfully earned the **Beginner GitHub Actions Badge by completing hands-on CI/CD tasks and workflows.
+ **GitHub Actions Badge**
+ 
+ I have successfully earned the Beginner GitHub Actions Badge by completing hands-on CI/CD tasks and workflows.
 
 🔗 Repository: https://github.com/nisalgunawardhana/github-actions-learning
 
