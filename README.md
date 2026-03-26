@@ -25,21 +25,25 @@
 <p align="center">
 
 <a href="https://github.com/nisalgunawardhana/Github-for-beginners">
-  <img src="https://img.shields.io/badge/GitHub-Beginner-blue?style=for-the-badge&logo=github">
+  <img src="https://raw.githubusercontent.com/nisalgunawardhana/Github-for-beginners/main/images/badge.png" width="140" />
 </a>
 
 <a href="https://github.com/nisalgunawardhana/github-actions-learning">
-  <img src="https://img.shields.io/badge/GitHub-Actions-orange?style=for-the-badge&logo=githubactions">
+  <img src="https://raw.githubusercontent.com/nisalgunawardhana/github-actions-learning/main/images/Beginner.png" width="140" />
 </a>
 
 <a href="https://github.com/nisalgunawardhana/API-Learning-101">
-  <img src="https://img.shields.io/badge/API-Learning-green?style=for-the-badge&logo=fastapi">
+  <img src="https://raw.githubusercontent.com/nisalgunawardhana/api-learning-101/main/images/badges/badge.png" width="140" />
 </a>
 
 <a href="https://github.com/nisalgunawardhana/docker-101">
-  <img src="https://img.shields.io/badge/Docker-101-blue?style=for-the-badge&logo=docker">
+  <img src="https://raw.githubusercontent.com/nisalgunawardhana/docker-101/main/images/badge.png" width="140" />
 </a>
 
+</p>
+
+<p align="center">
+  <i>Completed hands-on learning programs in GitHub, APIs, and Docker 🚀</i>
 </p>
 
 ---
