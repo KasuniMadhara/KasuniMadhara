@@ -40,8 +40,10 @@ Completed the GitHub Beginners Program
 <br><br>
 Completed CI/CD workflows with GitHub Actions
 </td>
+</tr>
 
-<td align="center">
+<tr>
+  <td align="center">
 <b>API Learning 101 Badge</b><br><br>
 <a href="https://github.com/nisalgunawardhana/API-Learning-101">
 <img src="https://raw.githubusercontent.com/nisalgunawardhana/api-learning-101/main/images/badges/badge.png" width="150">
@@ -50,6 +52,14 @@ Completed CI/CD workflows with GitHub Actions
 Completed API Learning 101 tasks
 </td>
 
+  <td align="center">
+<b>Docker 101 Badge</b><br><br>
+<a href="https://github.com/nisalgunawardhana/docker-101">
+<img src="https://raw.githubusercontent.com/nisalgunawardhana/docker-101/main/images/badge.png" width="150">
+</a>
+<br><br>
+Completed Docker 101 tasks
+</td>
 </tr>
 </table>
 <br>
